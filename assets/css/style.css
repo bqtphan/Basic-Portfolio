@@ -59,6 +59,8 @@ footer{
     clear:both;
     border-top: 10px solid #4aaaa5;
     margin-top: 20px;
+    position:fixed;
+    bottom:0;
 }
 
 #mainText{
